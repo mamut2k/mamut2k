@@ -1,4 +1,4 @@
--  Hi, I’m @
+-  Hi, I’m @chillin
 
 <!---
 mamut2k/mamut2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
